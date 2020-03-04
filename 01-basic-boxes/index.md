@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Box Model</title>
+    <link href="css/style.css" ref"stylesheet" />
   </head>
 
   <body>
