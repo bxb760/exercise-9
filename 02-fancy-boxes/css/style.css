@@ -11,7 +11,7 @@ div {
 
 
 /* Add your styles for each box below this line */
-box01{
+#box01{
   background-color: rgba(28,104,167,1);
 
   padding-top: 30px;
@@ -20,7 +20,7 @@ box01{
   padding-left: 0px;
 }
 
-box02{
+#box02{
   background-color: rgba(28,104,167,0.8);
 
   padding-top: 20px;
@@ -39,7 +39,7 @@ box02{
   border-left: 2px dotted rgba(28,104,167,1);
 }
 
-box03{
+#box03{
   background-color: rgba(28,104,167,0.6);
   
   padding-top: 20px;
@@ -59,7 +59,7 @@ box03{
 }
 
 
-box04{
+#box04{
   background-color: rgba(28,104,167,0.4);
  
   padding-top: 10px;
